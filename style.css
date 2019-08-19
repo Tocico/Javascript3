@@ -1,7 +1,16 @@
-body{
-  background: #a4a59f;
+.welcome {
+  text-align: center;
+  color: #070606;
+  padding: 40px 0;
+  font-size: 3em;
+  text-transform: uppercase;
+  letter-spacing: 0.5em;
 }
 
+.welcome .letter {
+  display: inline-block;
+  line-height: 1em;
+}
 
 .container {
   width: 100%;
