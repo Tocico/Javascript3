@@ -1,0 +1,54 @@
+body{
+  background: #a4a59f;
+}
+
+
+.container {
+  width: 100%;
+  height: 500px;
+  position: relative;
+}
+
+.pointer {
+  position: absolute;
+  margin: auto;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  width: 50px;
+  height: 50px;
+}
+
+.pointer1{
+  background-color: #237fb8;
+  opacity: 0;
+}
+.pointer2 {
+  background-color: #34943c;
+  opacity: 0;
+}
+.pointer3 {
+  background-color: #8f3249;
+  opacity: 0;
+}
+.pointer4 {
+  background-color: #a7c038;
+  opacity: 0;
+}
+.pointer5 {
+  background-color: #ce7039;
+  opacity: 0;
+}
+.pointer6 {
+  background-color: #374f9c;
+  opacity: 0;
+}
+.pointer7 {
+  background-color: #643b80;
+  opacity: 0;
+}
+.pointer8 {
+  background-color: #81753d;
+  opacity: 0;
+}
